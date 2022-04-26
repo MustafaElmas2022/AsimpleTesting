@@ -124,6 +124,7 @@ public class SauceDemoTest {
 
     }
 
+    // Test Case 5 - Shopping Function
     @Test
     public void test5() throws InterruptedException {
         driver.get(" https://www.saucedemo.com/");
